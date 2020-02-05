@@ -1,0 +1,1 @@
+This project is about first steps to learn a little of C program language.
