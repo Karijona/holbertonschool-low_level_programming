@@ -1,0 +1,1 @@
+This about functions and nested loops...so hard for me!! but i hope to solve and advance!
