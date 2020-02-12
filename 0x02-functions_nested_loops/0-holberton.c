@@ -1,14 +1,19 @@
 #include "holberton.h"
 
 /**
- *main - entry point
- *
- * Return: Always 0.
+ * main - Entry point
+ * Description: Displays "Holberton" followed by a new line
+ * Return: Always 0
  */
 int main(void)
 {
-char *str = "Holberton\n";
-while (*str != '\0')
-_putchar(*str++);
+int i = 0;
+char str[] = "Holberton";
+
+while (str[i] != '\0')
+_putchar(str[i++]);
+
+_putchar('\n');
+
 return (0);
 }
